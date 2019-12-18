@@ -3,7 +3,7 @@ List of stuff i browse on the Internet
 
 ## List 
 
-### Youtube Channels i recommend 
+### Youtube channels i recommend 
 
 [Vsauce](https://www.youtube.com/user/Vsauce)
 
@@ -25,7 +25,7 @@ List of stuff i browse on the Internet
 
 [Internet Comment Etiquette with Erik](https://www.youtube.com/user/commentiquette)
 
-### Torrent Site
+### Torrent sites
 
 [Nyaa.si](https://nyaa.si/) - Anime torrent site (Anime, Audio, Literature, Live Action, Picture, Software)
 
